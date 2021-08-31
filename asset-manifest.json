@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-grocery-list/static/css/main.bec957b2.chunk.css",
+    "main.js": "/react-grocery-list/static/js/main.2d8fc3e1.chunk.js",
+    "main.js.map": "/react-grocery-list/static/js/main.2d8fc3e1.chunk.js.map",
+    "runtime-main.js": "/react-grocery-list/static/js/runtime-main.5d477de7.js",
+    "runtime-main.js.map": "/react-grocery-list/static/js/runtime-main.5d477de7.js.map",
+    "static/js/2.ca87ec25.chunk.js": "/react-grocery-list/static/js/2.ca87ec25.chunk.js",
+    "static/js/2.ca87ec25.chunk.js.map": "/react-grocery-list/static/js/2.ca87ec25.chunk.js.map",
+    "static/js/3.005643f3.chunk.js": "/react-grocery-list/static/js/3.005643f3.chunk.js",
+    "static/js/3.005643f3.chunk.js.map": "/react-grocery-list/static/js/3.005643f3.chunk.js.map",
+    "index.html": "/react-grocery-list/index.html",
+    "static/css/main.bec957b2.chunk.css.map": "/react-grocery-list/static/css/main.bec957b2.chunk.css.map",
+    "static/js/2.ca87ec25.chunk.js.LICENSE.txt": "/react-grocery-list/static/js/2.ca87ec25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d477de7.js",
+    "static/js/2.ca87ec25.chunk.js",
+    "static/css/main.bec957b2.chunk.css",
+    "static/js/main.2d8fc3e1.chunk.js"
+  ]
+}
